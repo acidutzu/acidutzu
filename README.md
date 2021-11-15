@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @acidutzu
+- 👋 Hi, I’m @Adrian LC
 - 👀 I’m interested in ...DevOps
 - 🌱 I’m currently learning ...and learning
 - 💞️ I’m looking to collaborate on ...Ops 
-- 📫 How to reach me ...
+- 📫 How to reach me ... ludusnetfree@gmail.com
 
 <!---
 acidutzu/acidutzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
