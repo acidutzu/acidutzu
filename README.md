@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adrian LC
-- 👀 I’m interested in ...DevOps
+- 👀 I’m interested in ...DevOps/QA
 - 🌱 I’m currently learning ...and learning
-- 💞️ I’m looking to collaborate on ...Ops 
+- 💞️ I’m looking to collaborate on ...Ops / QA
 - 📫 How to reach me ... ludusnetfree@gmail.com
 
 <!---
@@ -19,3 +19,7 @@ use 1.5x speed for this 9 min HOW TO : https://www.youtube.com/watch?v=S-QojqC8s
 # put data CSV into mongoDB
 
 use 1.5x speed for 9 minute HOW TO : https://www.youtube.com/watch?v=aqy--V2EH-Q&feature=youtu.be
+
+# how to install httpd apache public server on docker and share any files without limits
+
+https://www.youtube.com/watch?v=T0aYWbvyMmI
